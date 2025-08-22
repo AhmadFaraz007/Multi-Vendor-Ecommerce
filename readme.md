@@ -118,7 +118,7 @@ AvenueFashion/ <br>
 
 ## 📚 About the Developer
 
-**Muhammad Taha Jamil**  
+**Ahmad Faraz**  
 Student of Web Technologies and Database Systems  
 **COMSATS University Vehari**
 
