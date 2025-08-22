@@ -87,7 +87,7 @@ Visit in your browser:
 ## 🔑 Login Credentials
 
 ### 👤 Sample Customer Account
-- **Email**: taha@gamil.com  
+- **Email**: ahmad@gamil.com  
 - **Password**: 1234
 
 > Customers can also register new accounts via the website.
